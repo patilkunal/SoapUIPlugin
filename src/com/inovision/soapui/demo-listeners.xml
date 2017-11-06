@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:soapui-listeners xmlns:tns="http://eviware.com/soapui/config">
+
+<tns:listener id="DemoListener" listenerClass="com.inovision.soapui.DemoListener"
+   listenerInterface="com.eviware.soapui.model.testsuite.TestRunListener" />
+</tns:soapui-listeners>
